@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @idAISeminar
-- 👀 I’m interested in Artificial Intelligence.
-- 🌱 I’m currently learning how to create a Git repository.
 - 💞️ I’m looking to collaborate on techLabs seminar.
 - 📫 How to reach me ... - don't 
 
